@@ -1,4 +1,4 @@
 **F-Term**
 ---
 
-**German**
+The terminal is in **German**
