@@ -1,2 +1,4 @@
-# F-Term
-A fun litle terminal
+**F-Term**
+---
+
+**German**
