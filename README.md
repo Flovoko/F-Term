@@ -1,4 +1,4 @@
 **F-Term**
 ---
 
-The terminal is in **German**!
+The terminal language is **German**!
